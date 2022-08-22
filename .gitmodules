@@ -1,0 +1,4 @@
+[submodule "sblog/sblog.github.io"]
+	path = sblog/sblog.github.io
+	url = git@github.com:seunbayo/sblog.github.io.git
+	branch = seunbayo
